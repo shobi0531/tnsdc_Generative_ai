@@ -1,1 +1,1 @@
-# tnsdc_Generative_ai
+# Embedding_with_various_data
